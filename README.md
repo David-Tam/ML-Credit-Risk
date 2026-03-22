@@ -40,5 +40,5 @@ POS cash balance, credit card balance, installment payments.
 
 ## Files
 
-- `credit_risk_classification_regression.ipynb` — full pipeline: EDA, feature engineering,
+- `home-credit-default-risk.ipynb` — full pipeline: EDA, feature engineering,
   baseline LR, XGBoost CV, Optuna tuning, SHAP global + individual explanations
